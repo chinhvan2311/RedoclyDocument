@@ -46,7 +46,7 @@ training:
   - group: Circuithq reference
     expanded: true
     pages:
-      - page: openapi/reference.page.yaml/*
+      - page: openapi/Circuithq.page.yaml/*
   - group: Admin
     expanded: true
     pages:
