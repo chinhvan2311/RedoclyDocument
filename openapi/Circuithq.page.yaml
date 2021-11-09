@@ -1,0 +1,9 @@
+type: reference-docs
+definitionId: circuithq
+settings:
+  generateCodeSamples:
+    languages:
+      - lang: curl
+      - lang: JavaScript
+      - lang: Node.js
+      - lang: C#
