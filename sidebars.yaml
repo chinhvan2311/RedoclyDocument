@@ -43,6 +43,10 @@ training:
     pages:
       - page: openapi/reference.page.yaml/*
 
+  - group: Circuithq reference
+    expanded: true
+    pages:
+      - page: openapi/reference.page.yaml/*
   - group: Admin
     expanded: true
     pages:
